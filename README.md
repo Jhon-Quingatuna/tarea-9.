@@ -1,1 +1,23 @@
 # tarea-9.
+
+Fundamentos de Circuitos Eléctricos
+
+# Tarea 9
+
+## 1. OBJETIVOS
+
+OBJETIVO GENERAL
+
+OBJETIVOS ESPECIFICOS
+
+## 2. MARCO TEORICO
+
+## 3. PROCEDIMIENTO
+
+## 4. CONCLUSIONES
+
+## 5. VIDEO
+
+## 6. BIBLIOGRAFÍA
+
+
