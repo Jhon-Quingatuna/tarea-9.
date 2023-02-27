@@ -8,7 +8,15 @@ Fundamentos de Circuitos Eléctricos
 
 OBJETIVO GENERAL
 
+Determinar el ancho de banda de circuitos resonantesy Examinar algunas aplicaciones de circuitos resonantes
+
 OBJETIVOS ESPECIFICOS
+
+Determinar la impedancia de un circuito RLC en serie y paralelo 
+
+Analizar un circuito en cuanto a resonancia en serie y paralelo
+
+Analizar la operación de filtros pasabajas,filtros pasaaltas,filtros pasabanda ,filtros rechazabanda RC y RL
 
 ## 2. MARCO TEORICO
 
