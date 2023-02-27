@@ -20,6 +20,10 @@ Analizar la operación de filtros pasabajas,filtros pasaaltas,filtros pasabanda 
 
 ## 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116813974/221659430-3b4ce66b-f1e9-4974-a350-08e4878ab1c4.png)
+
+![image](https://user-images.githubusercontent.com/116813974/221659528-7c21f3c3-d1d3-4661-986b-4c8622c3da42.png)
+
 ## 3. PROCEDIMIENTO
 
 ## 4. CONCLUSIONES
