@@ -28,8 +28,16 @@ Analizar la operación de filtros pasabajas,filtros pasaaltas,filtros pasabanda 
 
 ## 4. CONCLUSIONES
 
+Los transformadores tienen varias aplicaciones, se usan en sistemas de potencia eléctrica, en sistemas de audio, en telefonía, etc.
+
+Los sistemas trifásicos se usan para generar y trasmitir potencia eléctrica.
+
+El transformador es un circuito de acoplamiento magnético cuando está funcionando y su inductancia es mutua. Podemos concluir que el transformador da paso a un aumento o disminución de voltaje en un circuito con corriente alterna.
+
 ## 5. VIDEO
 
 ## 6. BIBLIOGRAFÍA
 
+Funcionamiento de los transformadores eléctricos. (s. f.). Fundacionendesa.org. Recuperado 9 de septiembre de 2021, de https://www.fundacionendesa.org/es/recursos/a201908-corrientes-alternas-con-un-transformador-electrico
 
+Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
